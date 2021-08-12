@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaFormsApp", "PaFormsApp\PaFormsApp.csproj", "{025C7931-E4CD-4490-9E52-9E3785AC4EAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{025C7931-E4CD-4490-9E52-9E3785AC4EAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{025C7931-E4CD-4490-9E52-9E3785AC4EAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{025C7931-E4CD-4490-9E52-9E3785AC4EAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{025C7931-E4CD-4490-9E52-9E3785AC4EAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD149EF4-86CF-4DDF-8AF1-311B27531DEB}
+	EndGlobalSection
+EndGlobal
